@@ -1,0 +1,10 @@
+{
+  "name": "abconnect jobs",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "sizes": ["large"],
+  "permissions": [
+    "network:shiny-capybara-22f374.netlify.app",
+    "storage:512KB"
+  ]
+}
