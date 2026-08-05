@@ -1,4 +1,5 @@
 {
+  "id": "tech.lifestuff.abconnect-jobs",
   "name": "abconnect jobs",
   "version": "1.0.0",
   "entry": "index.html",
