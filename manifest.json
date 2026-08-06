@@ -1,11 +1,10 @@
 {
   "id": "tech.lifestuff.abconnect-jobs",
   "name": "abconnect jobs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "entry": "index.html",
-  "sizes": ["large"],
+  "sizes": ["small", "medium", "large"],
   "permissions": [
-    "network:shiny-capybara-22f374.netlify.app",
     "network:script.google.com",
     "network:script.googleusercontent.com",
     "storage:512KB"
