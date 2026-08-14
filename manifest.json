@@ -1,7 +1,7 @@
 {
   "id": "tech.lifestuff.abconnect-jobs",
   "name": "abconnect jobs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "entry": "index.html",
   "sizes": ["small", "medium", "large"],
   "permissions": [
